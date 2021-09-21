@@ -29,8 +29,8 @@
 | STT | Họ tên | MSSV | Vai trò | Email | Github |
 | :---: | --- | --- | --- | --- | --- |
 | 1 | Thái Trần Khánh Nguyên | 19520188 | Nhóm trưởng | *19520188@gm.uit.edu.vn* | [ttknguyen](https://github.com/ttknguyen) | 
-| 3 | Nguyễn Khánh Như | 19520209 | Thành viên | *19520209@gm.uit.edu.vn* | [nkn-nhu](https://github.com/nkn-nhu) |
-| 4 | Lê Đoàn Thiện Nhân | 19520197 | Thành viên | *19520197@gm.uit.edu.vn* | [thiennhan2701](https://github.com/thiennhan2701) |
+| 2 | Nguyễn Khánh Như | 19520209 | Thành viên | *19520209@gm.uit.edu.vn* | [nkn-nhu](https://github.com/nkn-nhu) |
+| 3 | Lê Đoàn Thiện Nhân | 19520197 | Thành viên | *19520197@gm.uit.edu.vn* | [thiennhan2701](https://github.com/thiennhan2701) |
 
 ## Nội dung:
 * Các thông tin cần thiết của môn học
